@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run">
+    <sys_atf_schedule_run action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <browser_name>edge</browser_name>
+        <browser_version/>
+        <description>Run suite '[NeedIt]NeedIt App' on a system with this configuration:
+Edge browser on any version
+Any operating system on any version</description>
+        <order>100</order>
+        <os_name>any</os_name>
+        <os_version/>
+        <schedule display_value="[NeedIt]NeedIt App Suites">46f5e477dbd4a010f4845fc74b961921</schedule>
+        <sys_class_name>sys_atf_schedule_run</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-12 08:01:27</sys_created_on>
+        <sys_id>4e26a477dbd4a010f4845fc74b961939</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_schedule_run_4e26a477dbd4a010f4845fc74b961939</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-12 08:17:26</sys_updated_on>
+        <test_suite display_value="[NeedIt]NeedIt App">4c77d76fdbd0a010f4845fc74b9619c3</test_suite>
+        <watch_list/>
+    </sys_atf_schedule_run>
+</record_update>
