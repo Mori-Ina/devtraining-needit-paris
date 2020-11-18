@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_application_property">
+    <sys_application_property action="DELETE">
+        <default_value>3</default_value>
+        <description>Minimum number of days required between when a NeedIt request is created and the When needed date.</description>
+        <name>x_58872_needit.advancedNoticeDays</name>
+        <property display_value="x_58872_needit.advancedNoticeDays" name="x_58872_needit.advancedNoticeDays">b9e69d500f9af2000d030dbce1050ef7</property>
+        <read_roles>x_58872_needit.admin</read_roles>
+        <sys_class_name>sys_application_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-18 02:01:04</sys_created_on>
+        <sys_id>822d8a2ddbac2010f4845fc74b96191e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.advancedNoticeDays</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_application_property_822d8a2ddbac2010f4845fc74b96191e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-18 02:01:04</sys_updated_on>
+        <type>string</type>
+        <usage_notes/>
+        <write_roles>x_58872_needit.admin</write_roles>
+    </sys_application_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>8456811adb6532407e55d5b0cf9619d9</instance_id>
+        <instance_name>dev32026</instance_name>
+        <name>sys_application_property_822d8a2ddbac2010f4845fc74b96191e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_application_property"><sys_application_property action="INSERT_OR_UPDATE"><default_value>3</default_value><description>Minimum number of days required between when a NeedIt request is created and the When needed date.</description><name>x_58872_needit.advancedNoticeDays</name><property display_value="x_58872_needit.advancedNoticeDays" name="x_58872_needit.advancedNoticeDays">b9e69d500f9af2000d030dbce1050ef7</property><read_roles>x_58872_needit.admin</read_roles><sys_class_name>sys_application_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-18 02:01:04</sys_created_on><sys_id>822d8a2ddbac2010f4845fc74b96191e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit.advancedNoticeDays</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_application_property_822d8a2ddbac2010f4845fc74b96191e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-18 02:01:04</sys_updated_on><type>string</type><usage_notes/><write_roles>x_58872_needit.admin</write_roles></sys_application_property></record_update>]]></payload>
+        <payload_hash>-1399100918</payload_hash>
+        <record_name>x_58872_needit.advancedNoticeDays</record_name>
+        <reverted_from/>
+        <source>ca7382a5dbac2010f4845fc74b961985</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-18 02:01:04</sys_created_on>
+        <sys_id>0d7dc62ddbac2010f4845fc74b9619e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175d91578420000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-18 02:01:04</sys_updated_on>
+        <type>Application Properties</type>
+        <update_guid>057dc62d74ac201085c693ef88b3b9e6</update_guid>
+        <update_guid_history>057dc62d74ac201085c693ef88b3b9e6:-1399100918</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-18 02:09:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_application_property">sys_application_property</sys_db_object>
+        <sys_id>9f31ab1b41b446ea845c86268aa76459</sys_id>
+        <sys_metadata>822d8a2ddbac2010f4845fc74b96191e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.advancedNoticeDays</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_application_property_822d8a2ddbac2010f4845fc74b96191e</sys_update_name>
+        <sys_update_version display_value="sys_application_property_822d8a2ddbac2010f4845fc74b96191e">0d7dc62ddbac2010f4845fc74b9619e6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-18 02:09:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
